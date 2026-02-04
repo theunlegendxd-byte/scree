@@ -1,4 +1,4 @@
-# __⚠️ EDUCATIONAL USE ONLY ⚠️
+# ⚠️ EDUCATIONAL USE ONLY ⚠️
 
 This project is created strictly for learning and demonstration purposes 
 (e.g., Python automation, networking, and system programming).
@@ -14,4 +14,4 @@ By using this software, you agree that:
 • You understand what the software does
 • You have permission to run it
 • You are solely responsible for how it is used
-• The developer is not liable for misuse __
+• The developer is not liable for misuse 
